@@ -8,3 +8,8 @@ It's a classic example of needing to build things at least two times (probably t
 There are still a few things to improve, but it's fast enough to generate some pretty plots for my blog.
 That's all I need it for.
 
+# Quickstart
+```shell
+pip install -r requirements.txt
+python plot_som_grid.py
+```
