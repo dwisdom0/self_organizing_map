@@ -1,0 +1,11 @@
+# pyenv
+.python-version
+
+# Python
+__pycache__/
+
+# Vim
+*.swp
+
+# plots
+*.html
